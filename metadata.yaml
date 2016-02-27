@@ -1,0 +1,28 @@
+_repo: Rosamund-Queen-of-the-Lombards-A-Tragedy_2137
+creator:
+  author:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, Thomas
+    - Maitland, A. C. (Algernon Charles)
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- !lcsh 'English drama'
+title: 'Rosamund, Queen of the Lombards: A Tragedy'
+url: http://www.gutenberg.org/ebooks/2137
