@@ -1,5 +1,5 @@
 _repo: Rosamund-Queen-of-the-Lombards-A-Tragedy_2137
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Tragedies'
 - !lcsh 'English drama'
+- GITenberg
 title: 'Rosamund, Queen of the Lombards: A Tragedy'
 url: http://www.gutenberg.org/ebooks/2137
